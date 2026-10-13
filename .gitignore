@@ -1,0 +1,8 @@
+01_pointer
+02_vector_copy
+03_vector_pointer
+.vscode/
+build/        
+*.exe
+*.out
+*.Identifier
